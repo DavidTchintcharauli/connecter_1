@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "connecter_1",
-    "slug": "snack-68358597-2a44-4693-b0c0-9a3b48ab53de",
+    "name": "Conecter",
+    "slug": "Conecter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,9 +10,6 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
@@ -23,17 +20,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.efhialtes.snack683585972a444693b0c09a3b48ab53de"
+        "backgroundColor": "#ffffff"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "12ec9f3c-f43e-416a-b97c-06b02bec18bf"
-      }
     }
   }
 }
